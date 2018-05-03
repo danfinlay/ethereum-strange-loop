@@ -1,6 +1,6 @@
 # Ethereum Strangeloop Proposal
 
-## Motivtaions
+## Motivations
 
 Hard forking allows protocol evolution, and other potentially valuable community services (cough, funds recovery), but contentious forks today can divide network value and create excessive overhead for that blockchain's community.
 
