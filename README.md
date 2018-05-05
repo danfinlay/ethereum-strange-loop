@@ -63,6 +63,10 @@ Or maybe:
 
 I think that this kind of transitive trust with a quorum model is powerful because it allows users to require very high degrees of consensus before agreeing to a hard fork, while also allowing users to align their fork choice rules along the ideologies that most appeal to them. As long as these communities stay aligned to their purposes, after an (ideally early) ideological hard fork, the split ideology chains should be able to live in peace and parallel, even potentially communicating via hubs and relays.
 
+For more signaling strategies, check out:
+- [./signaling-methods/soft-flow.md](Soft Flow)
+- [./signaling-methods/hard-flow.md](Hard Flow)
+
 ## Conclusion
 
 Since users can implement any fork choice rule they want, and some forks are good decisions, and forks are most powerful when keeping the most people in sync at once, I think signaling with high quorum requirements could be a powerful "good enough" hard-fork governance framework for users to start iterating on what mechanisms they think are most effective for coordinating on hard forks.
