@@ -68,8 +68,8 @@ Or maybe:
 I think that this kind of transitive trust with a quorum model is powerful because it allows users to require very high degrees of consensus before agreeing to a hard fork, while also allowing users to align their fork choice rules along the ideologies that most appeal to them. As long as these communities stay aligned to their purposes, after an (ideally early) ideological hard fork, the split ideology chains should be able to live in peace and parallel, even potentially communicating via hubs and relays.
 
 For more signaling strategies, check out:
-- [./signaling-methods/soft-flow.md](Soft Flow)
-- [./signaling-methods/hard-flow.md](Hard Flow)
+- [Soft Flow](./signaling-methods/soft-flow.md)
+- [Hard Flow](./signaling-methods/hard-flow.md)
 
 ## Conclusion
 
