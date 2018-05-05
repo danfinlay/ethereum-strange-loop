@@ -10,6 +10,9 @@ Currently, one stance that is popularly presented is "no forks" as the simplest 
 
 At the EIP0 unconference, we discussed governance and how it can work at various layers of Ethereum. While layer two solutions, and even layer one solutions can be useful, interesting, and maybe necessary in the long term, when there are bugs or contention in the protocol itself, hard forking is the only option for resolving those issues, and so my focus in this proposal is on smoothing out the process of making hard forks less contentious.
 
+![flow chart](/uploads/default/original/1X/feb39db1b5fe715b63ce4c397106e910dfe92861.jpg)
+Here is a flow chart, showing which parts of the current process could be bypassed.
+
 I do not claim that this solves contentious hard forks, but I will present a framework that allows networks of people to assemble and strongly signal the ideals of their preferred blockchain, and allow clean forks along these ideological lines, avoiding the "infinite immutability debate" loop that the Ethereum blockchain is currently in.
 
 ## Introduction
