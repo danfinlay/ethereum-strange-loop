@@ -73,6 +73,10 @@ For more signaling strategies, check out:
 - [Soft Flow](./signaling-methods/soft-flow.md)
 - [Hard Flow](./signaling-methods/hard-flow.md)
 
+### Protocol Optimization
+
+This proposal would work best on a fork of the Ethereum blockchain that had space for a larger `network_id` field to allow replay-attack resilience. The current [EIP 155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md) format only supports up to 115 unique networks, while new forks should probably receive a universally unique identifier (this has the drawback of adding overhead to the message format).
+
 ## Conclusion
 
 Since users can implement any fork choice rule they want, and some forks are good decisions, and forks are most powerful when keeping the most people in sync at once, I think signaling with high quorum requirements could be a powerful "good enough" hard-fork governance framework for users to start iterating on what mechanisms they think are most effective for coordinating on hard forks.
