@@ -1,5 +1,7 @@
 # Ethereum Strangeloop Proposal
 
+Cross-posted on [Ethereum Magicians](https://ethereum-magicians.org/t/strange-loop-an-ethereum-governance-framework-proposal/) but prone to being spam-flagged by trolls there.
+
 ## Motivations
 
 Hard forking allows protocol evolution, and other potentially valuable community services (cough, funds recovery), but contentious forks today can divide network value and create excessive overhead for that blockchain's community.
