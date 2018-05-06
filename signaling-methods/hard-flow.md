@@ -2,7 +2,7 @@
 
 ### A coordination strategy for the Strange Loop hard fork framework.
 
-An extension of [./soft-flow.md](Soft Flow) that includes on-chain enforcement.
+An extension of [Soft flow](./soft-flow.md) that includes on-chain enforcement.
 
 Beyond signaling, hard economic commitments could allow accounts to unambiguously define their commitment to a particular fork.
 
